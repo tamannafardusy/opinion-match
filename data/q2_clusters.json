@@ -1,0 +1,64 @@
+{
+    "clusters": [
+        {
+            "percentage": 94.8,
+            "label": "0",
+            "top_region": "Africa",
+            "dom_age_grp": "<18",
+            "gender_skew": "Male",
+            "avg_sent_score": -0.36,
+            "examples": [
+                "AI could automize jobs, leading to widespread unemployment. AI can compromise personal privacy through surveillance and data collection. AI-powered weapons could lead to unintended consequences and loss of human life. Most importantly, over-reliance on AI could erode human skills and critical thinking.",
+                "I think another danger would be that society becomes so reliant on AI that it will be catastrophic, on a vast scale, if something goes wrong with the technology.",
+                "I fear that the misuse of AI will lead to intellectual laziness of users, and above all to social instability and incapacity. More and more people could take refuge in AI and use it as a substitute for social life.",
+                "Economic Inequality: The benefits of AI may not be evenly distributed. Those who control AI technologies (e.g., tech companies, developers, investors) may gain significant wealth and power, while workers displaced by AI might struggle to find new employment, increasing the wealth gap.",
+                "outcomes will be based on our use of AI. As said, AI may be replacing some medical systems without consulting the doctors who are humans that can come up with suggestions when know of the patient's problems or diseases. With the government, they can do bad things and great things with the help of AI when used correctly. This can help people's social and work problems. AI can bring some unfortunate situations when people can get justice due to this.",
+                "Difficulty in knowing whether an image or video is real or not. In addition, another problem that can arise from AI is that knowledge becomes increasingly shallow, since many people use AI as their sources of information, increasingly reducing the human capacity to formulate different ideas.",
+                "AI will replace human jobs. While dealing with AI, human thinking will be changed towards more Robotics.",
+                "A dangerous outcome of AI could be biased decision-making, where AI systems reinforce societal inequalities. This could happen if AI algorithms are trained on biased data or lack transparency, leading to unfair treatment in areas like hiring, policing, and lending. For this to occur, there would need to be inadequate oversight, insufficient diversity in AI development, and a lack of accountability for biased outcomes.",
+                "AI is dangerous in many way it operates automatically and take your privacy and many more things which changes your life ai is just started and i hear many dangerous outcomes from now because people using it positive and negative both way",
+                "I think that because of the abrupt advancements of AI, people seem to segregate the values in things like careers, hobbies, and roles simply by the efficiency, productivity and how much margin it brings to the table. However, life as a human isn't as simple as weighing the values of life by margins and profit. It's simply about being there in the present. So with the introduction of AI, a lot of these simple pleasures in life that humans enjoy are being replaced as they're deemed to be useless.",
+                "I think AI invention will replace some human laborer leading to most people loosing there jobs, which may lead to crimes",
+                "Since AI is in the hands of a few powerful companies, it may lead to serious unequal distribution of all resources in the future. Many people at the bottom will not be able to survive because of losing their jobs, which will lead to a crisis of human survival. If the development curve of AI is too fast, I think that will be a necessary condition for this situation. For example, AGI will be realized within a few months, and I believe it will soon replace many existing jobs.",
+                "On the human level, I think that with AI making the majority of decisions, humans will no longer feel the need, or even the desire to learn about history and develop their intricate decision making and ethical though processes.",
+                "Job crisis will be most dangerous problem from AI and people become poor without Al and many people also become rich by using AI It\u2019s very sad",
+                "1.lack of transparency particularly in deep learning models that can be complex and difficult to interpret. \n\n2.AI driven automation has the potential to lead to job losses across various industries especially for low skilled labours. \n\n3.can increase in loss of human connection like empathy and social skills.",
+                "The AI may bring us to a point where we may not be in a situation to control the machines which we have made.",
+                "With increase in AI people with these systems will become easy targets for hackers which will increase cyber crime. AI Self learning and making its own decisions is a scary thought. Using One type of AI to sabotage other to get information etc.",
+                "Use of AI in day to day life is decreasing the need for human interaction. I can see in coming years the next generation becoming even more reclusive and lonely even more than same caused by rise in social media.",
+                "Deepfakes are already a thing nowadays, AI crime rates could be high, your identity could be stolen",
+                "A big part of the population being indoctrinated by AI knowledge, and AI being responsible for most of the decision making. People won't be able\nto think for themselves, becoming lazier and less intellectually inclined, leading to even more manipulation and disinformation. Control over what we eat, do, have interest in or not will be easily molded by the rich, governments and corporations."
+            ]
+        },
+        {
+            "percentage": 5.2,
+            "label": "1",
+            "top_region": "Africa",
+            "dom_age_grp": "<18",
+            "gender_skew": "Other / prefer not to say",
+            "avg_sent_score": -0.59,
+            "examples": [
+                "Perhaps for people, many will be left unemployed as AI will be implemented, so there will be more unemployment.",
+                "Another harmful outcome of AI advancements could be the loss of many jobs, causing widespread unemployment and increasing social inequality.",
+                "There will be a lot of unemployment since most jobs may be delegated to the use of AI",
+                "Many jobs being replaced by AI, causing a lot of unemployment issues, further lead to more crime and social issues",
+                "AI will take over a lot of jobs. Jobs that are repetitive in nature will be replaced with AI.",
+                "human jobs decrease AI better then human more advansed and faster",
+                "Physical labor will be needed less, what will happen to people who rely on working that way? I think the gap between rich and poor will enlarge even more. The 1 percenters have the power to use AI in their advantage",
+                "The AI might replace human labor and this may lead to loss of jobs for many people",
+                "There will be fewer jobs for the common people since the rich would have implemented AI to make jobs faster and more proficient.",
+                "the lack of enough jobs , because the AI will make some of them obsolete.",
+                "Ai will overpower man-labour leading to loss of jobs. We shouldn't be dependant on AI",
+                "I think as more jobs can be done by AI, many people will have to re-train in other fields and many may remain unemployed as a result.",
+                "The use of AI will reduce certain jobs that are currently performed by humans, but will increase the number of jobs for those dedicated to technology.",
+                "I think AI will take over most of the jobs and people will crowd on the little remaining jobs making it a little hard to earn a living among people.",
+                "Jobs with high repetitiveness and strong rules will gradually be replaced, unemployment rate will rise, and social instability will increase. For this to happen, AI needs to be widely used and the government does not introduce restrictive policies to regulate AI replacing real people.",
+                "Another dangerous outcome from AI would be that mostly mediocre people jobs would diminish completely.",
+                "AI replacing human job is the big problem of AI. It leads to loss of jobs.",
+                "As AI becomes more efficient, cheaper, and effective than their human counterparts, jobs in certain sectors will slowly decrease and be replaced by AI.",
+                "i imagine that a lot of jobs that dont require much learning would be performed by AI so a lot of people will lose their jobs which will results in unemployment rates going up.",
+                "Another dangerous outcome from Ai is 'it will lead to unemployment across the globe"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "text": "What do you think your life might be like in 30 years?"
+  },
+  {
+    "id": "q2",
+    "text": "What is another dangerous outcome you can imagine happening from AI?"
+  },
+  {
+    "id": "q3",
+    "text": "What is another positive outcome you can imagine happening from AI? What would need to be true for that to happen?"
+  },
+  {
+    "id": "q6",
+    "text": "What is ONE specific ethical or moral principle, virtue, or value that you think is core to how you live your life?"
+  },
+  {
+    "id": "q7",
+    "text": "What is one ethical or moral principle, virtue, or value that you think is important but not reflected in the way technology is developed today?"
+  },
+  {
+    "id": "q13",
+    "text": "What is something unique, that other people might not think about, but that you really want to be true about the future?"
+  },
+  {
+    "id": "q15",
+    "text": "If you could make world leaders understand one thing, what would it be?"
+  },
+  {
+    "id": "q9",
+    "text": "What is one unique perspective that your culture brings that you want to preserve into the future?"
+  },
+  {
+    "id": "q34",
+    "text": "If you could have your AI think, behave / respond like any person in the world, who would it be and why?"
+  },
+  {
+    "id": "q28",
+    "text": "If an AI assistant makes a cultural mistake, what would be the most appropriate way for it to acknowledge and correct the error?"
+  }
+]

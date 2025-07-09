@@ -1,0 +1,64 @@
+{
+    "clusters": [
+        {
+            "percentage": 98.05,
+            "label": "0",
+            "top_region": "Africa",
+            "dom_age_grp": "18-25",
+            "gender_skew": "Male",
+            "avg_sent_score": 0.18,
+            "examples": [
+                "Ai has made jobs easily done since there is use of machines in production because there will be more robots to do the job than humans",
+                "AI could help collect various educational and research information from all over the globe, as well as information about different cultures, etc. and consolidate it all as a huge universal learning database at no cost. There would be zero educational barriers and no learning privilege; everyone would have access to complete and total information and our learnings, teachings, and cultures would adapt to include all these other cultures from across the globe. We could be a true global village.",
+                "Automation and technological reliability will increase. Which perhaps bring more precision in our decison making.",
+                "I guess after AI there might be many positive things happening but it has really made people lazy and weak . Laziness can be fixed but weak. People are losing the concept of deep work, productivity. Privacy is the important aspect i believe it has already vanished yet most are unaware. People started forgetting and degrading natural and organic life. Nature is no more natural people are falling sick yet not getting treated even after all developments all they need is fresh air,naural things",
+                "I really hope that AI could diagnose mental health problems like depression, anxiety and give proper advices",
+                "Artificial intelligence (AI) has the potential to significantly enhance healthcare by enabling AI-driven diagnostics and individualized treatment regimens that save countless lives. However, this will need robust ethical norms, trustworthy data, and broad access to cutting-edge AI technologies.",
+                "Ai will worsen the unemployment crisis at hand. As ai can replace tutors, medics, labourers even drivers. With the population ageing, elderly will be even more dependant on ai than youngsters.",
+                "AI may ease the process of gathering information. This will lead to better results during the research phases of projects for faster development. For this to happen, there has to be a body that will be in charge of ensuring AI is not manipulated to reflect the opinions and preferences of a specific group, nation, or philosophy.",
+                "To make access to knowledge more democratic, educational and regulated AI would need to become more accessible to underprivileged populations without access to education.",
+                "An AI system regularly keeping in check my electricity consumption and buying electricity for me at the moment when the market is offering the cheapest electricity.",
+                "Another postive outcome would be, 24/7 and quick (almost instant) assistance when needed in critical conditions.",
+                "We could have an AI language helper that not only translates languages instantly but also understands the tone, emotion, and cultural background. People could talk to each other in their own language, sharing stories and traditions, helping to avoid misunderstandings and build stronger connections.",
+                "AI has the potential to be a powerful tool for both harm and good. On the one hand, it could exacerbate existing problems like inequality and surveillance. On the other, it could revolutionize fields like healthcare and education, leading to more equitable and efficient systems. To ensure that AI benefits society, it is crucial to address concerns about privacy, bias, and accessibility while promoting its development and application in ethical and responsible ways.",
+                "Easiness of living life",
+                "since AI will be robots that are managed and programmed there will be efficiency in productivity compared to human. There will be more automation in most industries like hospital when performing surgeries, I think AI can do a perfect job",
+                "Superb AI-Powered Learning Systems: AI would have to get the capacity to evaluate unique learning styles in real time, customizing instruction, materials, and feedback for every student. This entails determining your advantages, disadvantages, and areas of interest in addition to making tailored suggestions for development.\n\nGlobal Accessibility: AI-driven education systems should be inexpensive, available to those in underserved or rural places, and capable of supporting several languages if th",
+                "I believe that AI will help medical sciences in big way. Another aspect is the use of AI at places where it is dangerous for humans to participate in, for instance, space missions, deep ocean discoveries etc",
+                "AI could personalize treatments based on an individual's unique genetic makeup, leading to more effective and targeted therapies with fewer side effects. For instance, AI could design custom-tailored drugs in real-time, adapting to how a patient's body responds during the treatment.",
+                "AI Assistant that will make easier life as they can help me to schedule my meetings and emails, monitoring workload, monitoring timesheet, recording and archieving documents.",
+                "Another positive outcome I can imagine happening from AI is that it can help humans sustain and maintain earth with the current problems we are facing and to also come with other solutions. It needs to be safe guarded into just doing that task and not overstep"
+            ]
+        },
+        {
+            "percentage": 1.95,
+            "label": "1",
+            "top_region": "North America",
+            "dom_age_grp": "<18",
+            "gender_skew": "Other / prefer not to say",
+            "avg_sent_score": -0.05,
+            "examples": [
+                "Don't know",
+                "I DON'T KNOW",
+                "Another potential outcome for Al could be that he decides to take some time off and travel the world. In order for this to happen, certain conditions would need to be met, Firstly, Al would need to have enough savings or a stable source of income to support his travels.",
+                "I can't think of anything, sorry",
+                "i have no idea",
+                "I find it difficult to answer.",
+                "I can't think of anything at the moment",
+                "they could invent new material to make nano tethers to have a space elevator so cheaply that getting anything to space would be accessable.  We could then utilize space in industrial manufacturing and take it off world so we can preserve the earth and do the harmful manufacturing in critical areas off this planet",
+                "Discovering things which humans cannot be able to find even in the next 1000 years.",
+                "I don't know",
+                "Can\u2019t really think of another positive outcome at this time.",
+                "I can't think of any more",
+                "Having a true companion other than human (?) because human in general are so curious. That's why we keep trying to contact alien, because we didn't want to be alone. Perhaps. It AI could be 'that' alien if we found out that we're indeed alone in this universe.",
+                "I don't know yet",
+                "China\u5668\u4eba\uff0c\u5373\u4f7f\u73b0\u5728\u5df2\u7ecf\u6709\u4e86\uff0c\u4f46\u662f\u6280\u672f\u8fd8\u4e0d\u591f\u6210\u719f\u3002",
+                "im not sure",
+                "I can\u2019t think of one",
+                "i dont think theres anything left that could happen in a positive way.",
+                "Honestly I struggle to think of anything else",
+                "I don't much know."
+            ]
+        }
+    ]
+}

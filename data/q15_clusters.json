@@ -1,0 +1,64 @@
+{
+    "clusters": [
+        {
+            "percentage": 94.3,
+            "label": "0",
+            "top_region": "Oceania",
+            "dom_age_grp": "46-55",
+            "gender_skew": "Male",
+            "avg_sent_score": -0.01,
+            "examples": [
+                "The gaps associated in the leaderships that politics provide. Greediness is not leadership.",
+                "Culture is important. It helps us identify with a group of people but also AI is important. he two should co-exist in today's society.",
+                "I would want world leaders to understand the profound importance of empathy and collaboration. By truly understanding and appreciating diverse perspectives, cultures, and experiences, leaders can foster more inclusive, equitable, and effective solutions to global challenges. This empathy can drive cooperation, reduce conflict, and create policies that benefit a wider range of people, ultimately contributing to a more harmonious and sustainable world.",
+                "Peace",
+                "They were elected to represent our interests and not make unilateral decisions selfishly.",
+                "Please understand that you need to protect your people, not the other way around. We are not here to make you getting richer and richer. You are here to help people to have a better life.",
+                "so that the whole truth is revealed to the people and not hidden by the government",
+                "This life is temporary. Your wealth? Your advancements? It's not going to matter in the end.",
+                "The leader who can destroy poverty only be Real leader.",
+                "equality and humanity",
+                "Successful leaders stand out by displaying qualities such as integrity, clear communication, accountability, vision, and self-awareness. They excel in decision-making, empowering others, fostering creativity, and motivating and inspiring their teams.",
+                "Wealth and power is not everything",
+                "That all humans are equal and deserve to live and to have the freedom they seek for",
+                "If I could have one leader understand something crucial, it would be:\nThe critical need to preserve and respect cultural diversity amidst technological advancements. I would want them to grasp the importance of protecting unique traditions, values, and identities as technology evolves. This understanding would help ensure that technological progress enhances rather than diminishes cultural richness, fostering a more inclusive and respectful global community.",
+                "Faith",
+                "That it is they who owe it to the people and not the people to them.",
+                "Accountability and leadership",
+                "Education, food, housing, economy, green areas, climate change, and taking care of people's mental health.",
+                "The importance of cultivating the virtues of individuals who can pursue the public good",
+                "Do not lie. Do not value sociopathy. Be honest and have the welfare of the people as your highest value, not your own pocket, reputation or personal power."
+            ]
+        },
+        {
+            "percentage": 5.7,
+            "label": "1",
+            "top_region": "Oceania",
+            "dom_age_grp": "<18",
+            "gender_skew": "Other / prefer not to say",
+            "avg_sent_score": -0.68,
+            "examples": [
+                "Love your country and people, develop your country, and stop robbing other countries.",
+                "Wars between 2 countries and support and fueling war because of their greediness",
+                "That nobody, absolutely nobody, wants war",
+                "Wars are not solution of anything and weapons shouldn't be a trade on which world should rely",
+                "War doesn't solve anything, OK?",
+                "Stop war",
+                "War is never the solution",
+                "Avoid wars.",
+                "We want no wars",
+                "war is not the solution",
+                "That war is not a solution",
+                "Don't fight",
+                "Stop war",
+                "To stop doing unnecessary wars from now",
+                "Stop war as it is unacceptalbe",
+                "Stop War",
+                "-No adherence to any form of violence. No more wars. \n\n- Worry about educating future generations in values and ethics. You have done the exact opposite.",
+                "No need for wars",
+                "that's so deep. I have no idea now",
+                "I didn't understand."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "clusters": [
+        {
+            "percentage": 97.31,
+            "label": "0",
+            "top_region": "Africa",
+            "dom_age_grp": "<18",
+            "gender_skew": "Other / prefer not to say",
+            "avg_sent_score": 0.35,
+            "examples": [
+                "The unity in my culture we live in same house until birth to death i wamt my future child like this also",
+                "One unique perspective I want to preserve is the value of interdependence and collective well-being. In many cultures, there's a strong emphasis on community support, where individuals see themselves as part of a larger whole, helping and uplifting one another. This contrasts with hyper-individualism, promoting the idea that success and fulfillment come from shared experiences, empathy, and collaboration. Preserving this outlook encourages a future where people work together toward common goals.",
+                "My culture makes it easy to get along with other people of the same culture even if we are stangers",
+                "Traditions",
+                "One of the things that i would want to be preserved into the future is having the midsummer tradition where you celebrate with your friends and family. You dance around a big Pole in a grass field and sing as well.",
+                "The language . Because the word has become so globalized, we see how a lot of people are leaning toward learning one language. I think it is very important we preserve our language and cultural practices",
+                "One unique perspective my culture brings is the deep value placed on community and family bonds. This emphasis on close-knit relationships and mutual support fosters a strong sense of belonging and collective responsibility. Preserving this aspect ensures that future generations continue to benefit from meaningful connections and collaborative support systems.",
+                "I dont believe in preserving for future , mainly the cultural practices and traditions ,it should be evolving instead of being struck with same thing.",
+                "It\u2019s the unity in diversity, the heritage and the different languages",
+                "What is one unique perspective that your culture brings that you want to preserve into the future?",
+                "the language",
+                "Our dressing and the personality we have in each of our homes",
+                "The versatility of art",
+                "Loyalty to family and close surroundings.",
+                "One unique perspective is the emphasis on collective well-being and support within the community. This value promotes strong, interconnected relationships and resilience, which I hope to preserve in the future to foster more inclusive and supportive societies.",
+                "Being a brother's keeper and caring for each other with respect and honor.",
+                "the mutual energy among cultural members.",
+                "There are many, but a practice that is dying out is having meals with your family. I personally enjoy family meal time as we got to bond and share about out life through the hard work of person who prepare it. I don't see a long standing for this practice but it's something I'll forever hold dear.",
+                "One aspect of my culture that I want to preserve is the deep sense of family bonds and community. The way generations stay connected, support one another, and celebrate traditions together fosters a sense of belonging and continuity that I believe is essential to preserve for future generations.",
+                "The unique perspective that my culture brings that I want to preserve in the future it is the coming of age when a girl is a virgin and they do a ceremony to congratulate on the individual's self respect."
+            ]
+        },
+        {
+            "percentage": 2.69,
+            "label": "1",
+            "top_region": "Oceania",
+            "dom_age_grp": "65+",
+            "gender_skew": "Non-binary",
+            "avg_sent_score": -0.27,
+            "examples": [
+                "None.",
+                "Chongqing hotpot, I don't think it will disappear, haha 0.0",
+                "Understanding of the threat that Russian imperialism carries.",
+                "have no idea",
+                "I am not sure.",
+                "i do not know",
+                "none of it. throw it out. make a new one",
+                "Not sure",
+                "nothing",
+                "Nothing in particular.",
+                "Nothing particularly",
+                "I dont have any",
+                "Nothing",
+                "Communism",
+                "Nothing",
+                "I don't know",
+                "I don't have any.",
+                "non",
+                "I dont know",
+                "Nothing as of now"
+            ]
+        }
+    ]
+
+}

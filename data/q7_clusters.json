@@ -1,0 +1,64 @@
+{
+    "clusters": [
+        {
+            "percentage": 97.01,
+            "label": "0",
+            "top_region": "Oceania",
+            "dom_age_grp": "56-65",
+            "gender_skew": "Female",
+            "avg_sent_score": -0.09,
+            "examples": [
+                "Respect, humility",
+                "To respect other from believes and religion by their own Faith. Without technical support",
+                "I believe that too much tech hype is polluting mainstream media by giving people the impression that we are much further in the future than when we really are.\n\nTechnological hype is futurist language that can be seen as optimistic, but it can lead to lying or exaggerating.\n\nMisleading the public into thinking that we're already living the future may slow down some progress in certain fields or sciences.\n\nSo, honesty above all when revealing a new technology!",
+                "Loyalty. As technology has developed people became more selfish and dishonest",
+                "I think that they should be guided by well-being, I don't know if general, but what is determined through agreements and norms.",
+                "Use of technology to manipulate human to earn profit by influencing them to buy or invest or trust on things which he/she could live without.",
+                "Respec should increase in increase in technology",
+                "Honest but this is lost somewhere because of technology no one knows, everywhere conflicts, corruption",
+                "Kindness and emotional support",
+                "Integrity.",
+                "Technology rarely advances based on \"SHOULD we do this?\", but rather \"CAN we do this?\"  Just because something can be done doesn't mean it SHOULD be done.  La-di-da, going to Mars would be cool, but what's the point?  How does it benefit humanity?  It's just a cool thing to do and brag about.  It doesn't do anything for me.",
+                "I would say Transparency. No matter how convenient technology is. It's potential impact on individual is obscure",
+                "Environmental stewardship, with how much a radioactive waste affecting the environment",
+                "One important ethical principle that is often lacking in current technology development is \"equity and inclusivity.\"\nEquity and inclusivity emphasise the importance of ensuring that technology is accessible to and usable by people from diverse backgrounds, including marginalised and underrepresented groups.",
+                "Empathy. There's no empathy in business, though. You can't be an empathetic buisness-person. Its an oxymoron.",
+                "Honesty and commitment to the truth rather than an agenda",
+                "Emotion is sometimes more important than reason",
+                "Being honest, not manipulating others to their own benefit",
+                "Accountability - People aren't being held accountable considering how fast words can travel online, yet people spreading misinformation aren't being held accountable for the damage.",
+                "Probably respect for animals and their natural environments. Domestic animals should be treated with more attention and kindness, wild animal environnements should be preserved."
+            ]
+        },
+        {
+            "percentage": 2.99,
+            "label": "1",
+            "top_region": "South America",
+            "dom_age_grp": "65+",
+            "gender_skew": "Female",
+            "avg_sent_score": 0.03,
+            "examples": [
+                "nothing",
+                "AFJOSJFODAOFDFFSSDFSDF",
+                "Don\u2019t know",
+                "fun",
+                "I have no idea.",
+                "I'm not sure.",
+                "Don't know",
+                "nothing",
+                "I don't know",
+                "Idk",
+                "I'm not sure",
+                "I really don't know the answer to this one",
+                "I am honestly not sure",
+                "Not sure",
+                "b",
+                "none",
+                "I don't have any idea yet",
+                "I can't think of one",
+                "I can't think of anything",
+                "yes"
+            ]
+        }
+    ]
+}
