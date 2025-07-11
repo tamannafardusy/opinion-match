@@ -1,42 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Playpen+Sans+Hebrew:wght@100..800&display=swap" rel="stylesheet">
-  <title>Opinion Matcher</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h2>Select a Question</h2>
-    <select id="questionSelect"></select>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playpen+Sans+Hebrew:wght@100..800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Opinion Matcher</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <img src="question_image.png" class="icon question-icon" />
+      <img src="heart.svg" class="icon heart-icon" />
+      <img src="star.svg" class="icon star-icon" />
+      <div class="green-box">
+        <div class="box-title">Select a Question</div>
+        <select id="questionSelect"></select>
 
-    <h2 id="question">Loading question...</h2>
-    <textarea id="userAnswer" placeholder="Type your thoughts..."></textarea>
-    <button onclick="submitAnswer()">
-      <img src="/utils/submit.png" alt="">
-    </button>
+        <h2 id="question">Loading question...</h2>
+        <textarea
+          id="userAnswer"
+          placeholder="Type your thoughts..."
+        ></textarea>
+        <button onclick="submitAnswer()">
+          <img src="/utils/submit.png" alt="" />
+        </button>
 
-    <div id="result" class="hidden">
-      <div class="clusterResult">
-         <h3>Matched Cluster:</h3>
-      <!-- <p id="clusterLabel"></p> -->
-      <p id="clusterPercent"></p>
-      <p id="clusterTopRegion"></p>
-      <p id="clusterDomAgeGrp"></p>
-      <p id="clusterGenderSkew"></p>
-      <p id="clusterAvgSentScore"></p>
+        <div id="result" class="hidden">
+          <div class="clusterResult">
+            <h3>Matched Cluster:</h3>
+            <!-- <p id="clusterLabel"></p> -->
+            <p id="clusterPercent"></p>
+            <p id="clusterTopRegion"></p>
+            <p id="clusterDomAgeGrp"></p>
+            <p id="clusterGenderSkew"></p>
+            <p id="clusterAvgSentScore"></p>
+          </div>
+          <!-- <div id="imageGallery"></div> -->
+          <h4>Some Answer from the survey:</h4>
+          <ul id="ParticipantsAnswers"></ul>
+        </div>
       </div>
-      <!-- <div id="imageGallery"></div> -->
-      <h4>Some Answer from the survey:</h4>
-      <ul id="ParticipantsAnswers"></ul>
     </div>
-  </div>
 
-  <script src="utils/match.js" type="module"></script>
-  <script src="script.js" type="module"></script>
-</body>
+    <script src="utils/match.js" type="module"></script>
+    <script src="script.js" type="module"></script>
+  </body>
 </html>
